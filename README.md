@@ -18,3 +18,5 @@ At the end of the course, you'll be able to demonstrate your technical abilities
 Click ``Issues`` to switch to table view or see a single department.
 
 *Each issue is a part of the milestone. Close all the issues within a milestone to complete it. Each of the milestone has an attached due date. This due date is a reminder to help you stay on track. However we understand that not everyone learns at the same pace, this deadline is flexible and you can complete the project at your own pace.*
+
+hello
